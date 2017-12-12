@@ -23,6 +23,6 @@ Many thanks goes to [Takayama Fumihiko](https://github.com/tekezo) for Seil, Kar
 
 1. Karabiner-Elements - [from git](https://github.com/tekezo/Karabiner-Elements) or [from site](https://pqrs.org/osx/karabiner/)
 1. Install rules
-  1. navigate your browser to `karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fgithub.com%2Frtm-ctrlz%2Fkarabiner-elements%2Fblob%2Fmaster%2Fruleset.json`, you have to Copy-Paste link, since Markdown doesn't support custom URI-schemes
+  1. navigate your browser to `karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fraw.githubusercontent.com%2Frtm-ctrlz%2Fkarabiner-elements%2Fmaster%2Fruleset.json`, you have to Copy-Paste link, since Markdown doesn't support custom URI-schemes
   1. import ruleset
   1. enable rules (one, all or none)
