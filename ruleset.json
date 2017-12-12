@@ -210,7 +210,7 @@
             "modifiers": {
               "mandatory": [
                 "right_shift",
-                "right_alt"
+                "right_option"
               ],
               "optional": [
                 "any"
@@ -232,7 +232,7 @@
             "modifiers": {
               "mandatory": [
                 "right_shift",
-                "right_alt"
+                "right_option"
               ],
               "optional": [
                 "any"
@@ -254,7 +254,7 @@
             "modifiers": {
               "mandatory": [
                 "right_shift",
-                "right_alt"
+                "right_option"
               ],
               "optional": [
                 "any"
@@ -276,7 +276,7 @@
             "modifiers": {
               "mandatory": [
                 "right_shift",
-                "right_alt"
+                "right_option"
               ],
               "optional": [
                 "any"
