@@ -307,7 +307,7 @@
           "to": [
             {
               "mouse_key": {
-                "vertical_wheel": -32
+                "vertical_wheel": 32
               }
             }
           ]
@@ -315,7 +315,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "v",
+            "key_code": "f",
             "modifiers": {
               "mandatory": [
                 "right_shift"
@@ -328,7 +328,7 @@
           "to": [
             {
               "mouse_key": {
-                "vertical_wheel": 32
+                "vertical_wheel": -32
               }
             }
           ]
