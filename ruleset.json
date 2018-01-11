@@ -2,7 +2,7 @@
   "title": "rtm@ctrlz ruleset",
   "rules": [
     {
-        "description": "Send F[1-12] keys to terminal apps",
+        "description": "Send F[1-12] keys to terminal apps and consumer keys to others",
         "manipulators": [
             {
                 "conditions": [
